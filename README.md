@@ -9,3 +9,9 @@ pipenv install flask-sqlalchemy
 pipenv install python-dotenv
 ```
 
+```
+cd url_shortener
+git clone repo
+flask run
+
+```
