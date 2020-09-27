@@ -21,5 +21,6 @@ Now project_dir serves as a virtual environment for hosting the project. Clone t
 cd project_dir
 git clone repo
 flask run
-
 ```
+
+The app will ask for username and password. please ente username as admins and password as password
