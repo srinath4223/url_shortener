@@ -1,7 +1,8 @@
 # url_shortener
 This is a url_shortener created using the flask framework.
 To run this web application python & pip ust be installed.
-Run the application by creating a project directory shuc serves as a virtual enviroment for the libraries needed.Execute the below commands.
+Run the application by creating a project directory which  serves as a virtual enviroment for the libraries needed.
+Execute the below commands.
 
 
 ```sh
@@ -13,8 +14,11 @@ pipenv install flask-sqlalchemy
 pipenv install python-dotenv
 ```
 
+Now project_dir serves as a virtual environment for hosting the project. Clone the repo run the flask application using the below commands.
+
+
 ```
-cd url_shortener
+cd project_dir
 git clone repo
 flask run
 
