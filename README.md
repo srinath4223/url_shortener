@@ -1,8 +1,12 @@
 # url_shortener
+This is a url_shortener created using the flask framework.
+To run this web application python & pip ust be installed.
+Run the application by creating a project directory shuc serves as a virtual enviroment for the libraries needed.Execute the below commands.
+
 
 ```sh
-mkdir url_shortener
-cd  url_shortener
+mkdir project_dir
+cd  project_dir
 pip install pipenv
 pipenv install flask
 pipenv install flask-sqlalchemy
