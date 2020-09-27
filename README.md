@@ -1,6 +1,6 @@
 # url_shortener
 This is a url_shortener created using the flask framework.
-To run this web application python & pip ust be installed.
+To run this web application python & pip must be installed.
 Run the application by creating a project directory which  serves as a virtual enviroment for the libraries needed.
 Execute the below commands.
 
